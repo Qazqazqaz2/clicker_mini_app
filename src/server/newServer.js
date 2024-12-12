@@ -8,7 +8,7 @@ const PORT = 5000;
 // Настройки для подключения к PostgreSQL
 const pool = new Pool({
   user: "postgres",
-  host: "localhost",
+  host: "95.191.14.63",
   database: "postgres",
   password: "762341",
   port: 5432, // стандартный порт для PostgreSQL
